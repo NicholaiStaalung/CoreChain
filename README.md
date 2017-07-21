@@ -1,5 +1,7 @@
 CoreChain README (Still work in progress. Use with caution, and only with prior Knowledge)
 
+This is a passion project. Feel free to contribute!
+
 Corechain is a blockchain inspired script with focus on validation. No HTTP module for initial node or peer have been included.
 
 PROOF of work is easy but can easily be made more difficult. And its Bitcoin inspired.
